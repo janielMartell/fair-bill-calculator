@@ -1,0 +1,167 @@
+body {
+  font-family: "Geomanist", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: auto 3rem 4rem;
+  color: #404040;
+}
+
+h1,
+legend {
+  font-weight: 600;
+  color: #171717;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  max-width: 60ch;
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+  margin-top: 2rem;
+}
+
+#salaries,
+#bills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+  text-align: right;
+  margin-top: 0.5rem;
+  border-radius: 0.25rem;
+  border: solid 1px #404040;
+  padding: 0.5rem;
+}
+
+/* styles */
+legend {
+  font-size: 1.5rem;
+}
+
+.form-group {
+  margin-top: 1rem;
+}
+
+.form-group div {
+  width: fit-content;
+}
+
+section {
+  overflow: auto;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  border-radius: 0.25rem;
+  margin-top: 2rem;
+  height: fit-content;
+  width: fit-content;
+  max-height: 80vh;
+  max-width: 100%;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #171717;
+  border: none;
+  color: white;
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.25rem;
+  margin-top: 1rem;
+  cursor: pointer;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+.btn:focus,
+.btn:hover {
+  background-color: #404040;
+}
+
+.btn-remove {
+  cursor: pointer;
+  color: #2563eb;
+  background-color: transparent;
+  border: none;
+  display: block;
+  margin-left: auto;
+  margin-top: 0.5rem;
+  padding: 0;
+}
+
+.btn-remove:hover,
+.btn-remove:focus {
+  text-decoration: underline;
+}
+
+table,
+button,
+label {
+  text-transform: capitalize;
+}
+
+table {
+  border-collapse: collapse;
+  border: none;
+  white-space: nowrap;
+  color: #171717;
+}
+
+tbody tr {
+  border-top: solid 1.25px #d4d4d4;
+  background-color: white;
+}
+
+thead tr,
+tbody tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
+tbody tr:hover {
+  background-color: #dbeafe;
+}
+
+th,
+td:first-child {
+  position: -webkit-sticky;
+  position: sticky;
+  background-color: inherit;
+}
+
+th:first-child {
+  z-index: 10;
+}
+
+th {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 0.75rem;
+  letter-spacing: 0.025rem;
+  color: #404040;
+  top: 0;
+}
+
+th,
+td {
+  text-align: right;
+  padding: 0.5rem 1rem;
+}
+
+th:first-child,
+td:first-child {
+  text-align: left;
+  left: 0;
+}
+
+td:last-child {
+  color: #b91c1c;
+}
