@@ -3,18 +3,18 @@
   font-family: "Geomanist";
   font-weight: 100;
   font-style: italic;
-  src: url("../fonts/geomanist/thin-italic.ttf"),
-    url("../fonts/geomanist/thin-italic.woff"),
-    url("../fonts/geomanist/thin-italic.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/thin-italic.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/thin-italic.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/thin-italic.woff2");
 }
 
 @font-face {
   font-display: swap;
   font-family: "Geomanist";
   font-weight: 100;
-  src: url("../fonts/geomanist/thin.ttf"),
-    url("../fonts/geomanist/thin.woff"),
-    url("../fonts/geomanist/thin.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/thin.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/thin.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/thin.woff2");
 }
 
 @font-face {
@@ -22,18 +22,18 @@
   font-family: "Geomanist";
   font-weight: 200;
   font-style: italic;
-  src: url("../fonts/geomanist/extralight-italic.ttf"),
-    url("../fonts/geomanist/extralight-italic.woff"),
-    url("../fonts/geomanist/extralight-italic.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/extralight-italic.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/extralight-italic.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/extralight-italic.woff2");
 }
 
 @font-face {
   font-display: swap;
   font-family: "Geomanist";
   font-weight: 200;
-  src: url("../fonts/geomanist/extralight.ttf"),
-    url("../fonts/geomanist/extralight.woff"),
-    url("../fonts/geomanist/extralight.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/extralight.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/extralight.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/extralight.woff2");
 }
 
 @font-face {
@@ -41,18 +41,18 @@
   font-family: "Geomanist";
   font-weight: 300;
   font-style: italic;
-  src: url("../fonts/geomanist/light-italic.ttf"),
-    url("../fonts/geomanist/light-italic.woff"),
-    url("../fonts/geomanist/light-italic.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/light-italic.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/light-italic.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/light-italic.woff2");
 }
 
 @font-face {
   font-display: swap;
   font-family: "Geomanist";
   font-weight: 300;
-  src: url("../fonts/geomanist/light.ttf"),
-    url("../fonts/geomanist/light.woff"),
-    url("../fonts/geomanist/light.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/light.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/light.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/light.woff2");
 }
 
 @font-face {
@@ -60,18 +60,18 @@
   font-family: "Geomanist";
   font-weight: 400;
   font-style: italic;
-  src: url("../fonts/geomanist/regular-italic.ttf"),
-    url("../fonts/geomanist/regular-italic.woff"),
-    url("../fonts/geomanist/regular-italic.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/regular-italic.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/regular-italic.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/regular-italic.woff2");
 }
 
 @font-face {
   font-display: swap;
   font-family: "Geomanist";
   font-weight: 400;
-  src: url("../fonts/geomanist/regular.ttf"),
-    url("../fonts/geomanist/regular.woff"),
-    url("../fonts/geomanist/regular.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/regular.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/regular.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/regular.woff2");
 }
 
 @font-face {
@@ -79,18 +79,18 @@
   font-family: "Geomanist";
   font-weight: 500;
   font-style: italic;
-  src: url("../fonts/geomanist/book-italic.ttf"),
-    url("../fonts/geomanist/book-italic.woff"),
-    url("../fonts/geomanist/book-italic.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/book-italic.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/book-italic.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/book-italic.woff2");
 }
 
 @font-face {
   font-display: swap;
   font-family: "Geomanist";
   font-weight: 500;
-  src: url("../fonts/geomanist/book.ttf"),
-    url("../fonts/geomanist/book.woff"),
-    url("../fonts/geomanist/book.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/book.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/book.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/book.woff2");
 }
 
 @font-face {
@@ -98,18 +98,18 @@
   font-family: "Geomanist";
   font-weight: 600;
   font-style: italic;
-  src: url("../fonts/geomanist/medium-italic.ttf"),
-    url("../fonts/geomanist/medium-italic.woff"),
-    url("../fonts/geomanist/medium-italic.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/medium-italic.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/medium-italic.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/medium-italic.woff2");
 }
 
 @font-face {
   font-display: swap;
   font-family: "Geomanist";
   font-weight: 600;
-  src: url("../fonts/geomanist/medium.ttf"),
-    url("../fonts/geomanist/medium.woff"),
-    url("../fonts/geomanist/medium.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/medium.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/medium.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/medium.woff2");
 }
 
 @font-face {
@@ -117,18 +117,18 @@
   font-family: "Geomanist";
   font-weight: 700;
   font-style: italic;
-  src: url("../fonts/geomanist/bold-italic.ttf"),
-    url("../fonts/geomanist/bold-italic.woff"),
-    url("../fonts/geomanist/bold-italic.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/bold-italic.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/bold-italic.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/bold-italic.woff2");
 }
 
 @font-face {
   font-display: swap;
   font-family: "Geomanist";
   font-weight: 700;
-  src: url("../fonts/geomanist/bold.ttf"),
-    url("../fonts/geomanist/bold.woff"),
-    url("../fonts/geomanist/bold.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/bold.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/bold.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/bold.woff2");
 }
 
 @font-face {
@@ -136,18 +136,18 @@
   font-family: "Geomanist";
   font-weight: 800;
   font-style: italic;
-  src: url("../fonts/geomanist/black-italic.ttf"),
-    url("../fonts/geomanist/black-italic.woff"),
-    url("../fonts/geomanist/black-italic.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/black-italic.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/black-italic.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/black-italic.woff2");
 }
 
 @font-face {
   font-display: swap;
   font-family: "Geomanist";
   font-weight: 800;
-  src: url("../fonts/geomanist/black.ttf"),
-    url("../fonts/geomanist/black.woff"),
-    url("../fonts/geomanist/black.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/black.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/black.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/black.woff2");
 }
 
 @font-face {
@@ -155,16 +155,16 @@
   font-family: "Geomanist";
   font-weight: 900;
   font-style: italic;
-  src: url("../fonts/geomanist/ultra-italic.ttf"),
-    url("../fonts/geomanist/ultra-italic.woff"),
-    url("../fonts/geomanist/ultra-italic.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/ultra-italic.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/ultra-italic.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/ultra-italic.woff2");
 }
 
 @font-face {
   font-display: swap;
   font-family: "Geomanist";
   font-weight: 900;
-  src: url("../fonts/geomanist/ultra.ttf"),
-    url("../fonts/geomanist/ultra.woff"),
-    url("../fonts/geomanist/ultra.woff2");
+  src: url("/fair-bill-calculator/assets/fonts/geomanist/ultra.ttf"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/ultra.woff"),
+    url("/fair-bill-calculator/assets/fonts/geomanist/ultra.woff2");
 }
